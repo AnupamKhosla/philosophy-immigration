@@ -35,6 +35,8 @@ Main points for practicality and realistic solution:
     Students from poorer backgrounds end up taking huge loans, creating a cycle of economic struggle.
 My opinion: overall it seems the Australian govt takes far more net gain than the migrant, hence overall being a discriminatory process of taking advantage of someone. This is similar to a business, e.g. you sell medicine at a higher price to someone who is in need of that medicine. An exact answer with numbers is needed, e.g. actual economic gain by Australian in terms of dollars to properly verify Chatgpt argument.
 
+Another discussion and key points with chat gpt: https://chatgpt.com/share/67d5101b-e41c-800f-a5ee-67f73950d14b
+
 ### Further research (Under construction) -- Google AI Content
 
 Philosophically, immigration raises complex questions about rights, justice, and the role of the state, with arguments ranging from open borders based on freedom of movement to the right of states to control their borders for cultural or economic reasons. 
